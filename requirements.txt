@@ -4,3 +4,4 @@ mediapipe
 numpy
 pyttsx3
 Pillow
+streamlit_webrtc
